@@ -17,6 +17,10 @@ Motion Detector i.e PIR Motion sensor
 
 
 
+ardiuno IDE
+
+
+
 Male to male wires
 
 
@@ -25,5 +29,5 @@ Male to female wires
 
 
 
-I have utilized my resources by programming the esp 32 and connecting them on a breadboard
+I have utilized my resources by programming the esp 32 through ardiuno IDE and connecting them on a breadboard
 
