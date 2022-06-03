@@ -17,3 +17,6 @@ I have used the following hardware for the project:
 3) Motion Detector i.e
    PIR Motion sensor
 
+I have used the following software for the project:
+
+Aurdiono IDE
